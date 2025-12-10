@@ -20,7 +20,7 @@ export function Header({ studentName, profileImage, onMenuClick }: HeaderProps) 
             <Menu className="w-5 h-5 text-gray-700" />
           </button>
           <div className="w-8 h-8 md:w-10 md:h-10 bg-[#1A73E8] rounded-lg flex items-center justify-center">
-            <span className="text-white text-sm md:text-base">LE</span>
+            <span className="text-white text-sm md:text-base">LGC</span>
           </div>
           <span className="text-[#0B315E] text-sm md:text-base hidden sm:block">Livret Électronique</span>
         </div>
