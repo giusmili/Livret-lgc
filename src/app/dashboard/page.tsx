@@ -68,7 +68,7 @@ export default function DashboardPage() {
           </div>
 
           <footer className="text-center text-[#ccc] py-4 md:py-6 text-xs md:text-sm border-t border-gray-200 mt-6">
-            <p className="font-medium text-[#ccc]">Copyright - 2025 La grande classe</p>
+            <p className="font-medium text-foot">Copyright - 2025 La grande classe</p>
           </footer>
         </main>
       </div>
