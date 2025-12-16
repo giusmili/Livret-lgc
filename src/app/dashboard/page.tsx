@@ -67,8 +67,8 @@ export default function DashboardPage() {
             <DeliverablesCard />
           </div>
 
-          <footer className="text-center text-gray-500 py-4 md:py-6 text-xs md:text-sm">
-            2025 - Livret electronique etudiant - LGC - Tous droits reserves.
+          <footer className="text-center text-[#ccc] py-4 md:py-6 text-xs md:text-sm border-t border-gray-200 mt-6">
+            <p className="font-medium text-[#ccc]">Copyright - 2025 La grande classe</p>
           </footer>
         </main>
       </div>

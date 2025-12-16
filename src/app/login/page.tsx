@@ -48,7 +48,7 @@ export default function LoginPage() {
   };
 
   return (
-    <div className="min-h-screen bg-[#F5F6F8] flex items-center justify-center p-4">
+    <div className="min-h-screen bg-[#F5F6F8] flex flex-col items-center justify-center p-4">
       <div
         className="bg-white rounded-2xl p-4 md:p-6 shadow-[0_4px_12px_rgba(0,0,0,0.08)] w-full"
         style={{ maxWidth: "1100px" }}
@@ -194,6 +194,10 @@ export default function LoginPage() {
           </div>
         </div>
       </div>
+
+      <footer className="text-center py-4 md:py-6 text-xs md:text-sm border-t border-gray-200 mt-6 w-full">
+        <p className="font-medium text-foot">Copyright - 2025 La grande classe</p>
+      </footer>
     </div>
   );
 }

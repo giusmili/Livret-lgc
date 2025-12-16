@@ -116,6 +116,9 @@
     font-size: inherit;
     font-weight: inherit;
   }
+  .text-foot{
+    color: #828282;
+  }
 
   a {
     color: inherit;
